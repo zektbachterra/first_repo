@@ -1,3 +1,4 @@
 File is changed.
 File is changed by master
 File is chenged by try-conflict
+File is chenged by try-stash1
