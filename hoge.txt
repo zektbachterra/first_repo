@@ -1,4 +1,12 @@
 File is changed.
 File is changed by master
+<<<<<<< Updated upstream
 File is chenged by try-conflict
+<<<<<<< HEAD
 File is chenged by try-stash1
+=======
+=======
+File is changed by try-conflict
+File is changed by try-stash2
+>>>>>>> Stashed changes
+>>>>>>> try-stash1
